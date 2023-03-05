@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:home_beautiful/components/titleBar.dart';
-import 'package:home_beautiful/screens/congrats.dart';
-import 'package:home_beautiful/screens/my_cart.dart';
+import 'package:home_beautiful2/components/titleBar.dart';
+import 'package:home_beautiful2/screens/congrats.dart';
+import 'package:home_beautiful2/screens/my_cart.dart';
 import 'package:swipeable_page_route/swipeable_page_route.dart';
 
 import '../components/mytext.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:home_beautiful/components/mytext.dart';
-import 'package:home_beautiful/core/_config.dart';
-import 'package:home_beautiful/components/buttonBar.dart';
+import 'package:home_beautiful2/components/mytext.dart';
+import 'package:home_beautiful2/core/_config.dart';
+import 'package:home_beautiful2/components/buttonBar.dart';
 
 class congrats extends StatefulWidget {
   const congrats({Key? key}) : super(key: key);

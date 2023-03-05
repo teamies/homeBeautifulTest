@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:home_beautiful/components/mytext.dart';
-import 'package:home_beautiful/core/_config.dart';
-import 'package:home_beautiful/models/product.dart';
-import 'package:home_beautiful/screens/LogIn.dart';
-import 'package:home_beautiful/screens/Product.dart';
-import 'package:home_beautiful/screens/my_cart.dart';
+import 'package:home_beautiful2/components/mytext.dart';
+import 'package:home_beautiful2/core/_config.dart';
+import 'package:home_beautiful2/models/product.dart';
+import 'package:home_beautiful2/screens/LogIn.dart';
+import 'package:home_beautiful2/screens/Product.dart';
+import 'package:home_beautiful2/screens/my_cart.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class Home extends StatefulWidget {
